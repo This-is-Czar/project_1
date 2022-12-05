@@ -1,0 +1,61 @@
+ body{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+ }
+ .banner{
+    background-color: #DFFF00;
+    position: absolute;
+    top: 0px;
+    height: 400px;
+    width: 100%;
+ }
+ #slide{
+   position: relative;
+   top: 0px;
+   height: 17px;
+   width:20px;
+   
+ }
+ .l1{
+    
+    position:relative;
+    background-color: white;
+    top: 5px;
+    height: 2px;
+    width:17px;
+    left: 5px;
+    border-width: 2px;
+    border-color: black;
+
+ }
+ .l2{
+    position:relative;
+    background-color: white;
+    top: 10px;
+    height: 2px;
+    width:17px;
+    left: 5px;
+    border-width: 2px;
+    border-color: black;
+
+ }
+ .l3{
+    position:relative;
+    background-color: white;
+    top: 15px;
+    height: 2px;
+    width:17px;
+    left: 5px;
+    border-width: 2px;
+    border-color: black;
+
+ } 
+ #menu{
+    background-color: grey;
+    position: absolute;
+    top: 0px;
+    height: 350px;
+    width: 200px;
+    display: none; 
+ }                                 
